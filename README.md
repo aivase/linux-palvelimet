@@ -1,2 +1,2 @@
 # linux-palvelimet
-Linux-palvelimet kurssi
+Linux-palvelimella tehdyt tehtävät
