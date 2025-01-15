@@ -21,4 +21,5 @@
 
 ### Lähteet:
 https://www.gnu.org/philosophy/free-sw.html#four-freedoms
+
 https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
