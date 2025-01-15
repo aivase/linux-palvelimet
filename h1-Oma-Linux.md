@@ -21,21 +21,21 @@
 
 # Linuxin asentaminen virtuaalikoneeseen
 ## Käyttöjärjestelmäni on Windows 11
-- Latasin "debian-live-12.9.0-amd64-xfce.iso" levykuvan osoitteesta: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/.
-- Virtualboxissa: 
-  - new
-  - asetin nimen
-  - ISO image: debian-live-12.9.0-amd64-xfce.iso, jonka latasin
-  - vaihdoin versioksi Debian (64bit)
-  - lopetin finish napilla
+- Latasin "debian-live-12.9.0-amd64-xfce.iso" levykuvan osoitteesta: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
+- Avasin VirtualBoxin ja painoin New kuvaketta, johon muokkasin asetukset:
+  - Asetin nimeksi "Debian"
+  - ISO Image: Valitsin lataamani "debian-live-12.9.0-amd64-xfce.iso" levykuvan
+  - Vaihdoin versioksi Debian (64bit)
+  - Laitoin "Skip Unattended Install" päälle
+  - Suljin asetukset painamalla finish
     
-  - klikkasin juuri luotua virtuaalikonetta ja valitsin asetukset
-  - valitsin asetuksissa storage kohdan
-  - storagessa painoin Controller: IDE alapuolelta Empty kohtaa jossa on CD-levyn kuva
-  - tämän jälkeen klikkasin Attributes otsikon alla olevaa CD-levyn kuvaa, josta valitsin choose/create virtual optic disk, jonka sisässä painoin add nappulaa ja valitsin debian-live-12.9.0-amd64-xfce.iso levykuvan
-  - lopetin painamalla ok nappia
+  - Right-klikkasin juuri luotua virtuaalikonetta ja valitsin asetukset
+  - Asetuksissa valitsin storage
+  - storagessa klikkasin Controller: IDE alapuolelta Empty kohtaa jossa on CD-levyn kuva
+  - Tämän jälkeen klikkasin Attributes otsikon alla olevaa CD-levyn kuvaa, josta valitsin choose/create virtual optic         disk, jonka avattua painoin add nappulaa ja valitsin debian-live-12.9.0-amd64-xfce.iso levykuvan
+  - Lopetin painamalla ok nappia
 
-  - yritin käynnistää virtuaalikonetta tuplaklikkaamalla ja sain virheilmoituksen "Not in a hypervisor partition (HVP=0)      (VERR_NEM_NOT_AVAILABLE) AMD-V is disabled in the BIOS (or by the host OS)          (VERR_SVM_DISABLED"
+  - Yritin käynnistää virtuaalikonetta tuplaklikkaamalla ja sain virheilmoituksen "Not in a hypervisor partition (HVP=0)      (VERR_NEM_NOT_AVAILABLE) AMD-V is disabled in the BIOS (or by the host OS)          (VERR_SVM_DISABLED"
   - korjasin ongelman avaamalla bios/uefi asetukset ja vaihtamalla SVM moden Disabled --> Enabled
   - avasin live system
   - avasin työpöydällä olevan install debian tiedoston
