@@ -8,7 +8,7 @@
 - aiheessa pysyvä
 (Tero Karvinen 2006)
 
-# What is free software? artikkeli
+# What is free software?
 
 ## Neljä vapautta
 1. Vapaus käyttää ohjelmaa mihin tahansa tarkoitukseen omien tarpeiden mukaan.
