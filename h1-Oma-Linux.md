@@ -47,8 +47,14 @@
     - $ sudo apt-get -y dist-upgrade
     - $ sudo apt-get -y install ufw
       $ sudo ufw enable
+  - asensin guest additionit laittamalla terminaliin komennot
+    -   $ cd /media/*/VBox*
+    -   $ sudo bash VBoxLinuxAdditions.run
+
   
 ### Lähteet:
 https://www.gnu.org/philosophy/free-sw.html#four-freedoms
 
 https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
+
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
