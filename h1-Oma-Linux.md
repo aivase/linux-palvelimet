@@ -1,5 +1,5 @@
-#Raportin kirjoittaminen
-##Hyvä raportti on
+# Raportin kirjoittaminen
+## Hyvä raportti on
 - toistettava
 - täsmällinen
 - helppolukuinen
