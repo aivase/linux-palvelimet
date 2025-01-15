@@ -36,7 +36,7 @@
   - Lopetin painamalla ok nappia
 
   - Yritin käynnistää virtuaalikonetta tuplaklikkaamalla ja sain virheilmoituksen "Not in a hypervisor partition (HVP=0)      (VERR_NEM_NOT_AVAILABLE) AMD-V is disabled in the BIOS (or by the host OS)          (VERR_SVM_DISABLED"
-  - korjasin ongelman avaamalla bios/uefi asetukset ja vaihtamalla SVM moden Disabled --> Enabled
+    - korjasin ongelman avaamalla bios/uefi asetukset ja vaihtamalla SVM moden Disabled --> Enabled
   - avasin live system
   - avasin työpöydällä olevan install debian tiedoston
   - asetin installerissa suomi näppäimistön ja valitsin erase disk vaihtoehdon
