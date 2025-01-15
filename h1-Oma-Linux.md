@@ -35,12 +35,19 @@
   - tämän jälkeen klikkasin Attributes otsikon alla olevaa CD-levyn kuvaa, josta valitsin choose/create virtual optic disk, jonka sisässä painoin add nappulaa ja valitsin debian-live-12.9.0-amd64-xfce.iso levykuvan
   - lopetin painamalla ok nappia
 
-  - yritin käynnistää virtuaalikonetta tuplaklikkaamalla ja sain virheilmoituksen "Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE) AMD-V is disabled in the BIOS (or by the host OS)          (VERR_SVM_DISABLED"
+  - yritin käynnistää virtuaalikonetta tuplaklikkaamalla ja sain virheilmoituksen "Not in a hypervisor partition (HVP=0)      (VERR_NEM_NOT_AVAILABLE) AMD-V is disabled in the BIOS (or by the host OS)          (VERR_SVM_DISABLED"
   - korjasin ongelman avaamalla bios/uefi asetukset ja vaihtamalla SVM moden Disabled --> Enabled
   - avasin live system
   - avasin työpöydällä olevan install debian tiedoston
   - asetin installerissa suomi näppäimistön ja valitsin erase disk vaihtoehdon
-  - suoritin asennuksen
+  - suoritin asennuksen ja uudelleenkäynnistin virtuaalikoneen
+
+  - avasin terminalin ja suoritin siellä komennot:
+    - $ sudo apt-get update
+    - $ sudo apt-get -y dist-upgrade
+    - $ sudo apt-get -y install ufw
+      $ sudo ufw enable
+  
 ### Lähteet:
 https://www.gnu.org/philosophy/free-sw.html#four-freedoms
 
