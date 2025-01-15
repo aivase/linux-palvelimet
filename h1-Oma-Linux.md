@@ -42,7 +42,7 @@
   - asetin installerissa suomi näppäimistön ja valitsin erase disk vaihtoehdon
   - suoritin asennuksen ja uudelleenkäynnistin virtuaalikoneen
 
-  - avasin terminalin ja suoritin siellä komennot päivtysten ja palomuurin asentamiseksi:
+  - avasin terminalin ja suoritin siellä seuraavat komennot päivtysten ja palomuurin asentamiseksi:
     - $ sudo apt-get update
     - $ sudo apt-get -y dist-upgrade
     - $ sudo apt-get -y install ufw
