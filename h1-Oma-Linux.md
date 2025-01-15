@@ -21,6 +21,7 @@
 
 # Linuxin asentaminen virtuaalikoneeseen
 ## Käyttöjärjestelmäni on Windows 11
+### Seurasin Tero Karvisen kirjoittamia ohjeita, jotka ovat saatavilla osoitteessa: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 - Latasin "debian-live-12.9.0-amd64-xfce.iso" levykuvan osoitteesta: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 - Avasin VirtualBoxin ja painoin New kuvaketta, johon muokkasin asetukset:
   - Asetin nimeksi "Debian"
