@@ -1,6 +1,5 @@
-# Raportin kirjoittaminen
-
-## Hyvä raportti on
+## Raportin kirjoittaminen
+# Hyvä raportti on
 
 - toistettava
 - täsmällinen
@@ -9,9 +8,9 @@
 - aiheessa pysyvä
 (Tero Karvinen 2006)
 
-## What is free software? artikkeli
+# What is free software? artikkeli
 
-# Neljä vapautta
+## Neljä vapautta
 1. Vapaus käyttää ohjelmaa mihin tahansa tarkoitukseen omien tarpeiden mukaan.
 2. Vapaus tutkia ohjelman toimintaa ja muokata sitä sopimaan omiin tarkoituksiin. Tämä edellyttää, että pääset käsiksi ohjelman lähdekoodiin.
 3. Vapaus jakaa muille kopioita ohjelmasta, jotta muutkin voivat hyötyä siitä.
