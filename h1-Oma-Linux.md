@@ -27,7 +27,6 @@
   - asetin nimen
   - ISO image: debian-live-12.9.0-amd64-xfce.iso, jonka latasin
   - vaihdoin versioksi Debian (64bit)
-  - asetin usernamen ja salasanan
   - lopetin finish napilla
     
   - klikkasin juuri luotua virtuaalikonetta ja valitsin asetukset
@@ -37,7 +36,11 @@
   - lopetin painamalla ok nappia
 
   - yritin käynnistää virtuaalikonetta tuplaklikkaamalla ja sain virheilmoituksen "Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE) AMD-V is disabled in the BIOS (or by the host OS)          (VERR_SVM_DISABLED"
-  - 
+  - korjasin ongelman avaamalla bios/uefi asetukset ja vaihtamalla SVM moden Disabled --> Enabled
+  - avasin live system
+  - avasin työpöydällä olevan install debian tiedoston
+  - asetin installerissa suomi näppäimistön ja valitsin erase disk vaihtoehdon
+  - suoritin asennuksen
 ### Lähteet:
 https://www.gnu.org/philosophy/free-sw.html#four-freedoms
 
