@@ -24,7 +24,9 @@
 ---
 
 # Linuxin asentaminen virtuaalikoneeseen
-## Käyttöjärjestelmäni on Windows 11
+### Windows 11
+### AMD Ryzen 5 3600 6-Core Processor 
+### Nvidia GeForce RTX 4060
 - Latasin debian-live-12.9.0-amd64-xfce.iso -levykuvan osoitteesta:  
   https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 - Avasin VirtualBoxin ja painoin New-kuvaketta, johon muokkasin asetukset:
