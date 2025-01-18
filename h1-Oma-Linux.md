@@ -1,3 +1,4 @@
+# x)
 # Raportin kirjoittaminen
 ## Hyvä raportti on
 
@@ -30,7 +31,7 @@
 ### Asennettu RAM 16 Gt
 
 ---
-
+# a)
 # Linuxin asentaminen virtuaalikoneeseen
 
 - Latasin debian-live-12.9.0-amd64-xfce.iso -levykuvan osoitteesta:  
