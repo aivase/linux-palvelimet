@@ -24,7 +24,7 @@
 
 ---
 
-## Suoritettu tietokoneella, jonka osia ovat:
+## Suoritettu tietokoneella, josta löytyy:
 ### Windows 11
 ### AMD Ryzen 5 3600 6-Core Processor 
 ### Nvidia GeForce RTX 4060
