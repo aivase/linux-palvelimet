@@ -52,6 +52,12 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 # c) 
 
 ## FHS
+
+/ Root directory on tietojärjestelmän ylin hakemisto
+
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/root.png
+" alt="Root screenshot" width="500">
+
   
 # d) 
   
@@ -64,6 +70,8 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 # f)
   
 ## Rauta
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/lshw.png" alt="lshw screenshot" width="500">
+
 
 
 
