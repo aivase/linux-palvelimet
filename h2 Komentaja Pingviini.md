@@ -83,8 +83,7 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 Komennolla ps aux näytetään kaikki käynnissä olevat prosessit ja lisäämällä siihen | grep "bash" rajataan sen näyttämään vain ne joissa on "bash"
 
     ps aux | grep "bash"
-
-
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/grepbash.png" alt="grepbash screenshot" width="600">  
 # f)
   
 ## Rauta
