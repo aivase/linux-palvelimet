@@ -12,4 +12,6 @@ sudo apt-get install micro
    Asensin neofetch komentoriviohjelman suorittamalla seuraavat komennot terminaalissa:  
    sudo apt-get update  
    sudo apt-get install neofetch  
-![neofetch](https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/neofetch.png)
+   
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/neofetch.png" alt="Neofetch Screenshot" width="300">
+
