@@ -53,9 +53,22 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 
 ## FHS
 
-/ Root directory on tietojärjestelmän ylin hakemisto
+/ Root directory on tietojärjestelmän ylin hakemisto, josta löytyy esimerkiksi bin, dev ja home.
 
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/root.png" alt="Root screenshot" width="500">
+
+/home sisältää kaikkien käyttäjien kotihakemistot  
+
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home.png
+" alt="Home screenshot" width="500">
+
+/home/eino on oma kotihakemistoni ja ainoa paikka johon käyttäjällä "eino" voi pysyvästi tallentaa tietoja. Sieltä löytyy esimerkiksi downloads, documents ja music.
+
+/etc sisältää kaikki järjestelmän laajuiset asetukset teksitiedostoissa
+
+/media sisältää laitteeseen liitetyt välineet kuten USB-tikku. ls /media ei näytä tuloksia sillä en ole liittänyt mitään välinettä tietokoneeseeni.
+
+/var/log sisältää järjestelmän lokit
 
   
 # d) 
