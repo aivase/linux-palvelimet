@@ -2,13 +2,13 @@
 
 # a)
 ## Asenna micro-editori
-Asensin micro-editorin suorittamalla seuraavat komennot terminaalissa:
-sudo apt-get update
-sudo apt-get install micro
+Asensin micro-editorin suorittamalla seuraavat komennot terminaalissa:  
+sudo apt-get update  
+sudo apt-get install micro  
 
 # b)
-## Asenna kolme itsellesi uutta komentoriviohjelmaa
-1. Neofetch. Asensin neofetch komentoriviohjelman suorittamalla seuraavat komennot terminaalissa:
-   sudo apt-get update
-   sudo apt-get install neofetch
+## Asenna kolme itsellesi uutta komentoriviohjelmaa  
+1. Neofetch. Asensin neofetch komentoriviohjelman suorittamalla seuraavat komennot terminaalissa:  
+   sudo apt-get update  
+   sudo apt-get install neofetch  
   
