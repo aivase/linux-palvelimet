@@ -95,6 +95,15 @@ Komennolla ps aux näytetään kaikki käynnissä olevat prosessit ja lisäämä
 ## Rauta
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/lshw.png" alt="lshw screenshot" width="500">
 
+Listasta voidaan tulkita esimerkiksi, että prosessorina toimivan AMD Ryzen 5 3600 6-Core ja muistia on: 128 kB L1, 3072 kB L2, ja 32 MB L3 välimuisti  
+
+## Lähteet:  
+https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited  
+https://terokarvinen.com/linux-palvelimet/  
+
+
+
+
 
 
 
