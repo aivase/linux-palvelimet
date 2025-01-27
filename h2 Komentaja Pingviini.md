@@ -61,8 +61,8 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home.png" alt="Home screenshot" width="600">  
 
 /home/eino on oma kotihakemistoni ja ainoa paikka johon käyttäjällä "eino" voi pysyvästi tallentaa tietoja. Sieltä löytyy esimerkiksi downloads, documents ja music.
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png
-" alt="Home/eino screenshot" width="600">  
+
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="600">  
 
 /etc sisältää kaikki järjestelmän laajuiset asetukset teksitiedostoissa
 
