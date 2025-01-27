@@ -4,7 +4,8 @@
 -ls tulostaa luettelon työhakemiston tiedostoista  
 -cd vaihtaa hakemistoa  
 -cd .. vaihaa hakemistoa taaksepäin  
--mkdir asd luo uuden kansion nimellä asd  
+-mkdir asd luo uuden kansion nimellä asd
+-
 
 # a)
 ## Asenna micro-editori
@@ -79,6 +80,10 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 # e)
   
 ## Pipe
+Komennolla ps aux näytetään kaikki käynnissä olevat prosessit ja lisäämällä siihen | grep "bash" rajataan sen näyttämään vain ne joissa on "bash"
+
+    ps aux | grep "bash"
+
 
 # f)
   
