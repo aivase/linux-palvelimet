@@ -69,7 +69,7 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 
 /media sisältää laitteeseen liitetyt välineet kuten USB-tikku. ls /media ei näytä tuloksia sillä en ole liittänyt mitään välinettä tietokoneeseeni.
 
-/var/log sisältää järjestelmän lokit
+/var/log sisältää järjestelmän lokit  
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="600">  
 
 # d) 
