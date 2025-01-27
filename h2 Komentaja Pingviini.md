@@ -55,8 +55,7 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 
 / Root directory on tietojärjestelmän ylin hakemisto
 
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/root.png
-" alt="Root screenshot" width="500">
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/root.png" alt="Root screenshot" width="500">
 
   
 # d) 
