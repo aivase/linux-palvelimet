@@ -1,12 +1,11 @@
 # x)
 ## Command Line Basics Revisited  
-
+  
 -pwd tulostaa nykyisen hakemiston  
 -ls tulostaa luettelon työhakemiston tiedostoista  
 -cd vaihtaa hakemistoa  
 -cd .. vaihaa hakemistoa taaksepäin  
 -mkdir asd luo uuden kansion nimellä asd
--
 
 # a)
 ## Asenna micro-editori
@@ -95,7 +94,7 @@ Komennolla ps aux näytetään kaikki käynnissä olevat prosessit ja lisäämä
 ## Rauta
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/lshw.png" alt="lshw screenshot" width="500">
 
-Listasta voidaan tulkita esimerkiksi, että prosessorin AMD Ryzen 5 3600 6-Core ja muistia on: 128 kB L1, 3072 kB L2, ja 32 MB L3 välimuisti  
+Listasta voidaan tulkita esimerkiksi, että järjestelmä on Virtualbox ja prosessori on AMD Ryzen 5 3600 6-Core
 
 ## Lähteet:  
 https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited  
