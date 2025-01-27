@@ -26,7 +26,7 @@ Kun syöttää komennon neofetch terminaaliin saa näkyviin järjestelmän ja la
 ### 2. Htop
    Asensin htop komentoriviohjelman suorittamalla seuraavat komennot terminaalissa:  
       -sudo apt-get update  
-      -sudo apt-get install htop
+      -sudo apt-get install htop  
 Kun syöttää komennon htop terminaaliin avautuu näkymä, jossa voi seurata järjestelmän resurssien käyttöä reaaliajassa. Näkymän saa sujettua q näppäintä painamalla.
 
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/htop.png" alt="Htop screenshot" width="500">
