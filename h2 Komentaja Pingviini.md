@@ -1,5 +1,6 @@
 # x)
-## Command Line Basics Revisited
+## Command Line Basics Revisited  
+
 -pwd tulostaa nykyisen hakemiston  
 -ls tulostaa luettelon työhakemiston tiedostoista  
 -cd vaihtaa hakemistoa  
@@ -56,22 +57,22 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 
 / Root directory on tietojärjestelmän ylin hakemisto, josta löytyy esimerkiksi bin, dev ja home.
 
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/root.png" alt="Root screenshot" width="600" height="500">
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/root.png" alt="Root screenshot" width="600" height="300">
 
 /home sisältää kaikkien käyttäjien kotihakemistot  
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home.png" alt="Home screenshot" width="600" height="500">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home.png" alt="Home screenshot" width="600" height="300">  
 
 /home/eino on oma kotihakemistoni ja ainoa paikka johon käyttäjällä "eino" voi pysyvästi tallentaa tietoja. Sieltä löytyy esimerkiksi downloads, documents ja music.
 
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="600" height="500">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="600" height="300">  
 
 /etc sisältää kaikki järjestelmän laajuiset asetukset teksitiedostoissa
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="600" height="500">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="600" height="300">  
 
 /media sisältää laitteeseen liitetyt välineet kuten USB-tikku. ls /media ei näytä tuloksia sillä en ole liittänyt mitään välinettä tietokoneeseeni.
 
 /var/log sisältää järjestelmän lokit  
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="600" height="500">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="600" height="300">  
 
 # d) 
   
