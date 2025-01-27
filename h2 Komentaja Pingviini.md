@@ -65,6 +65,7 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="600">  
 
 /etc sisältää kaikki järjestelmän laajuiset asetukset teksitiedostoissa
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="600">  
 
 /media sisältää laitteeseen liitetyt välineet kuten USB-tikku. ls /media ei näytä tuloksia sillä en ole liittänyt mitään välinettä tietokoneeseeni.
 
