@@ -39,3 +39,14 @@ Kun syöttää komennon htop terminaaliin avautuu näkymä, jossa voi seurata j�
 
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/htop.png" alt="Htop screenshot" width="500">
 
+### 3. Tree
+Asensin tree komtoriviohjelman suorittamalla seuraavat komennot terminaalissa:
+  
+    sudo  apt-get update
+    sudo apt-get install tree
+
+Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistorakenteesta  
+  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/tree.png" alt="Tree screenshot" width="500">
+
+
