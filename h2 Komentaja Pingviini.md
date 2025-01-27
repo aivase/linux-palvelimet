@@ -84,6 +84,7 @@ Komennolla ps aux näytetään kaikki käynnissä olevat prosessit ja lisäämä
 
     ps aux | grep "bash"
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/grepbash.png" alt="grepbash screenshot" width="600">  
+
 # f)
   
 ## Rauta
