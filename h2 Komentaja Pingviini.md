@@ -26,7 +26,7 @@
         
 Kun syöttää komennon neofetch terminaaliin saa näkyviin järjestelmän ja laitteiston tietoja.  
 
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/neofetch.png" alt="Neofetch Screenshot" width="500">
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/neofetch.png" alt="Neofetch Screenshot" width="500" height="500">
 
 
 ### 2. Htop
@@ -56,22 +56,22 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 
 / Root directory on tietojärjestelmän ylin hakemisto, josta löytyy esimerkiksi bin, dev ja home.
 
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/root.png" alt="Root screenshot" width="600">
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/root.png" alt="Root screenshot" width="600" height="500">
 
 /home sisältää kaikkien käyttäjien kotihakemistot  
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home.png" alt="Home screenshot" width="600">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home.png" alt="Home screenshot" width="600" height="500">  
 
 /home/eino on oma kotihakemistoni ja ainoa paikka johon käyttäjällä "eino" voi pysyvästi tallentaa tietoja. Sieltä löytyy esimerkiksi downloads, documents ja music.
 
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="600">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="600" height="500">  
 
 /etc sisältää kaikki järjestelmän laajuiset asetukset teksitiedostoissa
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="600">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="600" height="500">  
 
 /media sisältää laitteeseen liitetyt välineet kuten USB-tikku. ls /media ei näytä tuloksia sillä en ole liittänyt mitään välinettä tietokoneeseeni.
 
 /var/log sisältää järjestelmän lokit  
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="600">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="600" height="500">  
 
 # d) 
   
