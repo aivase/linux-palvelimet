@@ -76,7 +76,11 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 
 # d) 
   
-## The Friendly M.
+## The Friendly M.  
+  
+grep-komento etsii sanan "moi" kaikista hakemiston tiedostoista ja näyttää löytyneet rivit sekä tiedoston nimen.
+  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/grep1.png" alt="grep screenshot" width="800">  
 
 # e)
   
