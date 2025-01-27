@@ -13,5 +13,5 @@ sudo apt-get install micro
    sudo apt-get update  
    sudo apt-get install neofetch  
    
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/neofetch.png" alt="Neofetch Screenshot" width="650">
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/neofetch.png" alt="Neofetch Screenshot" width="400" length="300">
 
