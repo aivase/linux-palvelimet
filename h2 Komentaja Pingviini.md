@@ -1,4 +1,10 @@
 # x)
+## Command Line Basics Revisited
+-pwd tulostaa nykyisen hakemiston
+-ls tulostaa luettelon työhakemiston tiedostoista
+-cd vaihtaa hakemistoa
+-cd .. vaihaa hakemistoa taaksepäin
+-mkdir asd luo uuden kansion nimellä asd
 
 # a)
 ## Asenna micro-editori
@@ -12,7 +18,15 @@ sudo apt-get install micro
    Asensin neofetch komentoriviohjelman suorittamalla seuraavat komennot terminaalissa:  
       -sudo apt-get update  
       -sudo apt-get install neofetch  
-Kun syöttää komennon neofetch terminaaliin saa näkyviin järjestelmän ja laitteiston tietoja.
-   
+Kun syöttää komennon neofetch terminaaliin saa näkyviin järjestelmän ja laitteiston tietoja.  
+
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/main/neofetch.png" alt="Neofetch Screenshot" width="500">
+
+
+### 2. Htop
+   Asensin htop komentoriviohjelman suorittamalla seuraavat komennot terminaalissa:  
+      -sudo apt-get update  
+      -sudo apt-get install htop  
+
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/htop.png" alt="Htop screenshot" width="500">
 
