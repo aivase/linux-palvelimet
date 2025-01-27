@@ -1,10 +1,10 @@
 # x)
 ## Command Line Basics Revisited
--pwd tulostaa nykyisen hakemiston
--ls tulostaa luettelon työhakemiston tiedostoista
--cd vaihtaa hakemistoa
--cd .. vaihaa hakemistoa taaksepäin
--mkdir asd luo uuden kansion nimellä asd
+-pwd tulostaa nykyisen hakemiston  
+-ls tulostaa luettelon työhakemiston tiedostoista  
+-cd vaihtaa hakemistoa  
+-cd .. vaihaa hakemistoa taaksepäin  
+-mkdir asd luo uuden kansion nimellä asd  
 
 # a)
 ## Asenna micro-editori
