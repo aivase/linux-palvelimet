@@ -49,4 +49,22 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
   
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/tree.png" alt="Tree screenshot" width="500">
 
+# c) 
+
+## FHS
+  
+# d) 
+  
+## The Friendly M.
+
+# e)
+  
+## Pipe
+
+# f)
+  
+## Rauta
+
+
+
 
