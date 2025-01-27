@@ -67,12 +67,12 @@ Kun syöttää komennon tree terminaaliin avautuu visuaalinen kuvaus hakemistora
 <img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/home%20eino.png" alt="Home/eino screenshot" width="800">  
 
 /etc sisältää kaikki järjestelmän laajuiset asetukset teksitiedostoissa
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="800" height="300">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/etc.png" alt="Home/eino screenshot" width="800">  
 
 /media sisältää laitteeseen liitetyt välineet kuten USB-tikku. ls /media ei näytä tuloksia sillä en ole liittänyt mitään välinettä tietokoneeseeni.
 
 /var/log sisältää järjestelmän lokit  
-<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="800" height="300">  
+<img src="https://raw.githubusercontent.com/aivase/linux-palvelimet/refs/heads/main/varlog.png" alt="Home/eino screenshot" width="800">  
 
 # d) 
   
